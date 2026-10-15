@@ -1,6 +1,6 @@
-# CIMSS 2026 Website
+# CIMSS 2027 Website
 
-Official website for the 6th International Workshop on Critical Infrastructure and Maritime Systems Security (CIMSS 2026), held in conjunction with ACNS 2026.
+Official website for the 6th International Workshop on Critical Infrastructure and Maritime Systems Security (CIMSS 2027), held in conjunction with ACNS 2027.
 
 ## 🚀 Quick Start
 
