@@ -134,13 +134,7 @@ Edit the navigation items in `src/components/Navigation.tsx`.
 - **Language:** TypeScript
 - **Deployment:** GitHub Pages (via GitHub Actions)
 
-## 📝 License
-
-This project is for the CIMSS 2026 workshop.
 
 ## 📧 Contact
-
-For inquiries about the website, please contact the web chair:
-- Sunil Basnet, Aalto University, Finland
 
 For workshop inquiries, contact the program chairs.
