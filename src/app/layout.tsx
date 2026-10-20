@@ -7,8 +7,8 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CIMSS 2026 - Critical Infrastructure and Maritime Systems Security",
-  description: "6th International Workshop on Critical Infrastructure and Maritime Systems Security at ACNS 2026",
+  title: "CIMSS 2027 - Critical Infrastructure and Maritime Systems Security",
+  description: "7th International Workshop on Critical Infrastructure and Maritime Systems Security at ACNS 2026",
 };
 
 export default function RootLayout({
