@@ -23,13 +23,13 @@ export default function Footer() {
             </p>
             <ul className="text-gray-300 text-sm space-y-1">
               <li>
-                <a href="mailto:mujeeb.ahmed@newcastle.ac.uk" className="hover:text-white transition-colors">
-                  mujeeb.ahmed@newcastle.ac.uk
+                <a href="mailto:vzeyu_yang@sutd.edu.sg" className="hover:text-white transition-colors">
+                  zeyu_yang@sutd.edu.sg
                 </a>
               </li>
               <li>
-                <a href="mailto:vzeyu_yang@sutd.edu.sg" className="hover:text-white transition-colors">
-                  zeyu_yang@sutd.edu.sg
+                <a href="mailto:mujeeb.ahmed@newcastle.ac.uk" className="hover:text-white transition-colors">
+                  mujeeb.ahmed@newcastle.ac.uk
                 </a>
               </li>
             </ul>
