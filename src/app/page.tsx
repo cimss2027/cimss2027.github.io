@@ -193,7 +193,7 @@ export default function Home() {
                 <tr className="transition-colors hover:bg-primary-50">
                   <th scope="row" className="w-[24%] px-4 py-3 font-semibold text-primary-800 whitespace-nowrap">Program Chairs</th>
                   <td className="w-[25%] px-4 py-3 whitespace-nowrap">Zeyu Yang</td>
-                  <td className="px-4 py-3 whitespace-nowrap">Singapore University of Technology and Design, Singapore</td>
+                  <td className="px-4 py-3 whitespace-nowrap">University of Cyprus, Cyprus</td>
                 </tr>
                 <tr className="transition-colors hover:bg-primary-50">
                   <th scope="row" className="px-4 py-3" aria-label="Program Chairs"></th>
