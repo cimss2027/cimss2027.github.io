@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-base leading-7 text-gray-800 antialiased;
+  }
+}
+
+@layer components {
+  .site-container {
+    @apply mx-auto w-full max-w-5xl px-4 sm:px-6;
+  }
+
+  .site-page {
+    @apply mx-auto w-full max-w-5xl px-4 py-12 text-gray-800 sm:px-6;
+  }
+
+  .page-title {
+    @apply mb-10 text-3xl font-bold tracking-tight text-primary-900 sm:text-4xl;
+  }
+
+  .section-title {
+    @apply mb-5 border-b border-gray-300 pb-2 text-2xl font-bold text-primary-900;
+  }
+
+  .subsection-title {
+    @apply mb-3 text-xl font-semibold text-primary-900;
+  }
+
+  .content-section {
+    @apply mb-10;
+  }
+
+  .body-copy {
+    @apply space-y-4 leading-7 text-gray-700;
+  }
+
+  .cfp-page .page-title {
+    @apply text-2xl sm:text-3xl;
+  }
+
+  .cfp-page .section-title {
+    @apply text-xl;
+  }
+
+  .cfp-page .subsection-title {
+    @apply text-lg;
+  }
+
+  .home-content .section-title {
+    @apply text-xl;
+  }
+
+  .home-content .subsection-title,
+  .home-content h4 {
+    @apply text-lg;
+  }
+
+  .past-events-page .page-title {
+    @apply text-2xl sm:text-3xl;
+  }
+
+  .past-events-page h2 {
+    @apply text-lg;
+  }
+
+}
