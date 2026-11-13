@@ -23,8 +23,8 @@ export default function Footer() {
             </p>
             <ul className="text-gray-300 text-sm space-y-1">
               <li>
-                <a href="mailto:vzeyu_yang@sutd.edu.sg" className="hover:text-white transition-colors">
-                  zeyu_yang@sutd.edu.sg
+                <a href="mailto:vyang.zeyu@ucy.ac.cy" className="hover:text-white transition-colors">
+                  yang.zeyu@ucy.ac.cy
                 </a>
               </li>
               <li>
