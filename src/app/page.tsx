@@ -155,6 +155,19 @@ export default function Home() {
               <span className="text-gray-700">Submission Cycle 1 opened</span>
             </li> */}
             <li className="border-b border-gray-200 pb-3 text-sm last:border-0">
+              <span className="mb-1 block font-bold text-primary-700">Nov 20, 2026</span>
+              <span className="block text-gray-700">The submission link has been updated. Please submit your paper through the{' '}
+                  <a
+                    href="https://submit.acns2027.com/cimss"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-primary-600 underline hover:text-primary-800"
+                    >
+                  CIMSS 2027 submission system
+                  </a>.
+              </span>
+            </li> 
+            <li className="border-b border-gray-200 pb-3 text-sm last:border-0">
               <span className="mb-1 block font-bold text-primary-700">Oct 28, 2026</span>
               <span className="block text-gray-700">CFP announced</span>
             </li> 
