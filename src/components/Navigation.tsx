@@ -74,7 +74,7 @@ export default function Navigation() {
               )
             ))}
             <a
-              href="https://easychair.org/conferences/?conf=cimss2027"
+              href="https://submit.acns2027.com/cimss"
               target="_blank"
               rel="noopener noreferrer"
               className="relative left-8 ml-auto rounded-md border border-amber-300 bg-amber-400 px-4 py-1.5 font-semibold text-slate-950 shadow-sm transition-colors hover:bg-amber-300"
@@ -161,7 +161,7 @@ export default function Navigation() {
               )
             ))}
             <a
-              href="https://easychair.org/conferences/?conf=cimss2027"
+              href="https://submit.acns2027.com/cimss"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-2 block rounded-md border border-amber-300 bg-amber-400 px-4 py-2 font-semibold text-slate-950 shadow-sm transition-colors hover:bg-amber-300"
