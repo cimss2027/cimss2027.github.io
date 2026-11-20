@@ -117,7 +117,7 @@ export default function CallForPapers() {
           <li>
             <strong>Submit online.</strong> Upload the paper through the{' '}
             <a
-              href="https://easychair.org/conferences/?conf=cimss2027"
+              href="https://submit.acns2027.com/cimss"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary-700 underline hover:text-primary-900"
