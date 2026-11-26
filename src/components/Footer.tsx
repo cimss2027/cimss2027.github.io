@@ -23,7 +23,7 @@ export default function Footer() {
             </p>
             <ul className="text-gray-300 text-sm space-y-1">
               <li>
-                <a href="mailto:vyang.zeyu@ucy.ac.cy" className="hover:text-white transition-colors">
+                <a href="mailto:yang.zeyu@ucy.ac.cy" className="hover:text-white transition-colors">
                   yang.zeyu@ucy.ac.cy
                 </a>
               </li>
